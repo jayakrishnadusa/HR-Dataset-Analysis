@@ -39,7 +39,7 @@ The dataset contains 1,470 employee records and includes:
 
 ---
 
-## 🛠️ Tools & Technologies
+##   Tools & Technologies
 
 - **Power BI** – For dashboard creation and interactive data visualization
 - **Python (Pandas, Seaborn)** – For initial data cleaning, EDA, and feature engineering
@@ -48,7 +48,7 @@ The dataset contains 1,470 employee records and includes:
 
 ---
 
-## 📊 Dashboard Preview
+##  Dashboard Preview
 
 ![HR Dashboard Screenshot](./dashboard_screenshot.png)  
 > *A snapshot of the HR Analytics Dashboard created in Power BI*
