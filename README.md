@@ -1,6 +1,4 @@
-# HR-Dataset-Analysis
-
-# 📊 HR Analytics Dashboard – Attrition Analysis
+#  HR Analytics Dashboard – Attrition Analysis
 
 Welcome to my **HR Attrition Dashboard** project! This interactive Power BI dashboard provides actionable insights into employee attrition trends based on various demographic, salary, and job role factors. The goal of this project is to help HR professionals make data-informed decisions to improve employee retention.
 
